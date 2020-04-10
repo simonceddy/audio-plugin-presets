@@ -24,7 +24,7 @@ etc...
 
 Saving the presets will differ depending on OS and maybe the plugin host.
 
-On macOS the locations are usually either one of \(or both\) `./Users/\{your username\}/Library/Audio/Presets/\{manufacturer name\}/\{plugin name\}` or `./Library/Audio/Presets/\{manufacturer name\}/\{plugin name\}`.
+On macOS the locations are usually either one of \(or both\) `./Users/{your username}/Library/Audio/Presets/{manufacturer name}/{plugin name}` or `./Library/Audio/Presets/{manufacturer name}/{plugin name}`.
 
 So far I have uploaded presets for the following:
 
