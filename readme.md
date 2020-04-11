@@ -2,7 +2,7 @@
 
 ___
 
-This repository contains numerous preset files for a variety of VST/AU plugins I use.
+This repository contains a variety of preset files for numerous VST/AU plugins I use.
 
 The repository is organised into directories like so:
 
