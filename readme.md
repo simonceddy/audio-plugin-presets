@@ -33,5 +33,6 @@ So far I have uploaded presets for the following:
 - Glitchmachines Fracture
 - Glitchmachines Fracture XT
 - Glitchmachines Hysteresis
+- Musical Entropy Spaceship Delay
 
 More to come.
