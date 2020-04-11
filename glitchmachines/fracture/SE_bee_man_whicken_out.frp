@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+<FRACTURE_PRESET PresetName="SE_bee_man_whicken_out" ChainOrder="5" Size="0.13600000739097595215"
+                 Repeats="0.71899998188018798828" Ratio="0.90799999237060546875"
+                 Size_Mod_Depth="0.26199999451637268066" Repeats_Mod_Depth="1"
+                 Ratio_Mod_Depth="0.9710000157356262207" Buffer_LFO_Wave="0.80000001192092895508"
+                 Buffer_LFO_Rate="0.47499999403953552246" Buffer_LFO_Sync="1"
+                 Buffer_LFO_SyncedRate="0.62900000810623168945" FilterType="1"
+                 Cutoff="0.42300000786781311035" Resonance="0.12899999320507049561"
+                 Cutoff_Mod_Depth="1" Filter_Lfo_Wave="0.60000002384185791016"
+                 Filter_Lfo_Rate="1" Filter_Lfo_Sync="1" Filter_Lfo_SyncedRate="0.89399999380111694336"
+                 Delay_Time="0.075999997556209564209" Delay_Feed="0.95700001716613769531"
+                 Delay_Mix="0.32300001382827758789" Delay_Time_Mod_Depth="0.94199997186660766602"
+                 Delay_Lfo_Wave="0.20000000298023223877" Delay_Lfo_Rate="0.99500000476837158203"
+                 Delay_Lfo_Sync="1" Delay_Lfo_SyncedRate="0.99199998378753662109"
+                 Amp="0.83999997377395629883" Dry_Wet="1" Random="0"/>

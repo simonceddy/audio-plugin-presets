@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+<FRACTURE_PRESET PresetName="SE_windy_but_still_tubas" ChainOrder="0" Size="0.078000001609325408936"
+                 Repeats="1" Ratio="0.24400000274181365967" Size_Mod_Depth="0.95399999618530273438"
+                 Repeats_Mod_Depth="0" Ratio_Mod_Depth="1" Buffer_LFO_Wave="0"
+                 Buffer_LFO_Rate="0.3310000002384185791" Buffer_LFO_Sync="0" Buffer_LFO_SyncedRate="0.48255270719528198242"
+                 FilterType="1" Cutoff="0.34700000286102294922" Resonance="0.67100000381469726562"
+                 Cutoff_Mod_Depth="0.69400000572204589844" Filter_Lfo_Wave="0"
+                 Filter_Lfo_Rate="0.8090000152587890625" Filter_Lfo_Sync="0" Filter_Lfo_SyncedRate="0.10717415809631347656"
+                 Delay_Time="0.24600000679492950439" Delay_Feed="0.66257256269454956055"
+                 Delay_Mix="0.54100000858306884766" Delay_Time_Mod_Depth="0.69594562053680419922"
+                 Delay_Lfo_Wave="0.60000002384185791016" Delay_Lfo_Rate="0.10849799960851669312"
+                 Delay_Lfo_Sync="1" Delay_Lfo_SyncedRate="0.32087966799736022949"
+                 Amp="0.84833794832229614258" Dry_Wet="1" Random="0"/>

@@ -28,6 +28,8 @@ On macOS the locations are usually either one of \(or both\) `./Users/{your user
 
 So far I have uploaded presets for the following:
 
+- Glitchmachines Fracture
 - Glitchmachines Fracture XT
+- Glitchmachines Hysteresis
 
 More will be uploaded soon, but the laptop is in need of an hour of power.

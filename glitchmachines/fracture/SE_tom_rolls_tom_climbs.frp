@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+<FRACTURE_PRESET PresetName="SE_tom_rolls_tom_climbs" ChainOrder="0" Size="0.42951536178588867188"
+                 Repeats="0.098559960722923278809" Ratio="0.89348047971725463867"
+                 Size_Mod_Depth="0.38116532564163208008" Repeats_Mod_Depth="0.57976162433624267578"
+                 Ratio_Mod_Depth="0.69277274608612060547" Buffer_LFO_Wave="0.068279825150966644287"
+                 Buffer_LFO_Rate="0.60567063093185424805" Buffer_LFO_Sync="0"
+                 Buffer_LFO_SyncedRate="1" FilterType="0.043399561196565628052"
+                 Cutoff="0.26955717802047729492" Resonance="0.03389107435941696167"
+                 Cutoff_Mod_Depth="0.63463258743286132812" Filter_Lfo_Wave="0.52456814050674438477"
+                 Filter_Lfo_Rate="0.67032951116561889648" Filter_Lfo_Sync="0"
+                 Filter_Lfo_SyncedRate="0.6374161839485168457" Delay_Time="0.35753649473190307617"
+                 Delay_Feed="0.92985695600509643555" Delay_Mix="0.085016921162605285645"
+                 Delay_Time_Mod_Depth="0.41706168651580810547" Delay_Lfo_Wave="0.91007763147354125977"
+                 Delay_Lfo_Rate="0.26706075668334960938" Delay_Lfo_Sync="0" Delay_Lfo_SyncedRate="0.76054871082305908203"
+                 Amp="0.84833794832229614258" Dry_Wet="1" Random="0"/>

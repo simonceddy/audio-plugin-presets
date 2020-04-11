@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+<OXYMORE_PRESET PresetName="SE_flippin_birds" Time="0" Sync="0" Division="0.15220154821872711182"
+                Feedback="0.40799999237060546875" Ping_Out="1" Cutoff_Floor="0.49588689208030700684"
+                Cutoff_Mod_Depth="0.98000001907348632812" Cutoff_Mod_Rate="0.74900001287460327148"
+                Resonance="0.76941114664077758789" Modulation_Rate="0.16099999845027923584"
+                Rate_Mode="0.24444574117660522461" Modulation_Amount="0.19400000572204589844"
+                Stereo_Separation="0.3089999854564666748" Stutter_Proportion="0.62259423732757568359"
+                Stutter_Speed="0.87577658891677856445" Stutter_Reverse="0" Stutter_Mix="0.68800002336502075195"
+                Dry_Wet="0.85600000619888305664" Randomize="0" Out_Level="0.84833794832229614258"/>
