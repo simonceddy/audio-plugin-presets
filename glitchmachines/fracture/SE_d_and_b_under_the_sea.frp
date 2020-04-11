@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+<FRACTURE_PRESET PresetName="SE_d_and_b_under_the_sea" ChainOrder="2" Size="0.34413486719131469727"
+                 Repeats="0.017274845391511917114" Ratio="0.77812200784683227539"
+                 Size_Mod_Depth="0.3088607490062713623" Repeats_Mod_Depth="0.47002637386322021484"
+                 Ratio_Mod_Depth="0.36368826031684875488" Buffer_LFO_Wave="0.16932860016822814941"
+                 Buffer_LFO_Rate="0.95874994993209838867" Buffer_LFO_Sync="0"
+                 Buffer_LFO_SyncedRate="0.3794269263744354248" FilterType="0.58062642812728881836"
+                 Cutoff="0.16478767991065979004" Resonance="0.7643706202507019043"
+                 Cutoff_Mod_Depth="0.56098884344100952148" Filter_Lfo_Wave="1"
+                 Filter_Lfo_Rate="0.33288657665252685547" Filter_Lfo_Sync="0"
+                 Filter_Lfo_SyncedRate="0.12903058528900146484" Delay_Time="0.84266686439514160156"
+                 Delay_Feed="0.21376924216747283936" Delay_Mix="0.40682509541511535645"
+                 Delay_Time_Mod_Depth="0.80824011564254760742" Delay_Lfo_Wave="0.049173306673765182495"
+                 Delay_Lfo_Rate="0.46852204203605651855" Delay_Lfo_Sync="0" Delay_Lfo_SyncedRate="0.93069159984588623047"
+                 Amp="0.84833794832229614258" Dry_Wet="1" Random="0"/>
