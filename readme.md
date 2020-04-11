@@ -22,9 +22,11 @@ The repository is organised into directories like so:
 etc...
 ```
 
-Saving the presets will differ depending on OS and maybe the plugin host.
+Storing the presets will differ depending on OS and potentially the plugin host.
 
 On macOS the locations are usually either one of \(or both\) `./Users/{your username}/Library/Audio/Presets/{manufacturer name}/{plugin name}` or `./Library/Audio/Presets/{manufacturer name}/{plugin name}`.
+
+Directories contain additional readmes where more detailed or manufacturer specific installation instructions can be found.
 
 So far I have uploaded presets for the following:
 
@@ -32,4 +34,4 @@ So far I have uploaded presets for the following:
 - Glitchmachines Fracture XT
 - Glitchmachines Hysteresis
 
-More will be uploaded soon, but the laptop is in need of an hour of power.
+More to come.
