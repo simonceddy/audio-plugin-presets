@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+<Regressif>
+  <PARAM id="Cutoff" value="15508.0"/>
+  <PARAM id="Resonance" value="37.700000762939453125"/>
+  <PARAM id="Filter_Type" value="3.0"/>
+  <PARAM id="Drive" value="37.0"/>
+  <PARAM id="Distortion_Routing" value="1.0"/>
+  <PARAM id="Rate" value="5.0"/>
+  <PARAM id="Bits" value="7.0"/>
+  <PARAM id="LoFi_Routing" value="0.0"/>
+  <PARAM id="Amplitude" value="-3.887996673583984375"/>
+  <PARAM id="Dry_Wet_Mix" value="100"/>
+  <PARAM id="LFO_1_Rate" value="3.42999982833862304688"/>
+  <PARAM id="LFO_1_Synced_Rate" value="12.0"/>
+  <PARAM id="LFO_1_Sync" value="0.0"/>
+  <PARAM id="LFO_1_Wave" value="0.0"/>
+  <PARAM id="LFO_2_Rate" value="6.47000026702880859375"/>
+  <PARAM id="LFO_2_Synced_Rate" value="9.0"/>
+  <PARAM id="LFO_2_Sync" value="1.0"/>
+  <PARAM id="LFO_2_Wave" value="5.0"/>
+  <PARAM id="LFOs_Mix" value="82.8000030517578125"/>
+  <PARAM id="Cutoff_Mod_Source" value="1.0"/>
+  <PARAM id="Cutoff_Mod_Depth" value="0.03500000014901161194"/>
+  <PARAM id="Resonance_Mod_Source" value="3.0"/>
+  <PARAM id="Resonance_Mod_Depth" value="0.06300000101327896118"/>
+  <PARAM id="Rate_Mod_Source" value="0.0"/>
+  <PARAM id="Rate_Mod_Depth" value="0.68300002813339233398"/>
+  <PARAM id="Bits_Mod_Source" value="1.0"/>
+  <PARAM id="Bits_Mod_Depth" value="0.95500004291534423828"/>
+  <PARAM id="Dry_Wet_Mix_Mod_Source" value="2.0"/>
+  <PARAM id="Dry_Wet_Mix_Mod_Depth" value="0"/>
+</Regressif>

@@ -29,6 +29,11 @@ So far I have uploaded presets for the following:
 - Glitchmachines Fracture
 - Glitchmachines Fracture XT
 - Glitchmachines Hysteresis
+
+- Inear Display BowEcho
+- Inear Display Regressif
+- Inear Display rmpx4
+
 - Musical Entropy Spaceship Delay
 
 More to come.

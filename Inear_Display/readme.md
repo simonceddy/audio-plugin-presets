@@ -4,7 +4,9 @@ ___
 
 Presets for the following Inear Display plugins:
 
-- BowEcho - <https://www.ineardisplay.com/plugins/legacy/> \(free\)
+- BowEcho - <https://www.ineardisplay.com/plugins/legacy/> \(free/legacy\)
+- rmpx4 \(legacy?\)
+- Regressif - <https://www.ineardisplay.com/plugins/regressif/> \(free\)
 
 ___
 
