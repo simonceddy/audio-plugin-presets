@@ -5,7 +5,8 @@ ___
 Presets for the following Inear Display plugins:
 
 - BowEcho - <https://www.ineardisplay.com/plugins/legacy/> \(free/legacy\)
-- rmpx4 \(legacy?\)
+- Eurydice (legacy - Glitchmachines Cryogen is roughly based on this plugin)
+- rmpx4 \(legacy?)
 - Regressif - <https://www.ineardisplay.com/plugins/regressif/> \(free\)
 
 ___

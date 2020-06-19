@@ -4,8 +4,9 @@ ___
 
 Presets for the following Glitchmachines plugins:
 
+- Convex - https://glitchmachines.com/products/convex/
+- Cryogen - https://glitchmachines.com/products/cryogen/
 - Fracture XT - <https://glitchmachines.com/products/fxt/>
-
 - Fracture - <https://glitchmachines.com/products/fracture/> \(free\)
 - Hysteresis - <https://glitchmachines.com/products/hysteresis/> \(free\)
 
