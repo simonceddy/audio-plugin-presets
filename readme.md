@@ -39,6 +39,8 @@ So far I have uploaded presets for the following:
 - Inear Display Regressif
 - Inear Display rmpx4
 
+- Kilohearts Phase Plant
+
 - Musical Entropy Spaceship Delay
 
 More to come.
