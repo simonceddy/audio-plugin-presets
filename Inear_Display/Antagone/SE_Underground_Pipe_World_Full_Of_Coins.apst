@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Antagone_State>
+  <PARAM id="delay1_amp" value="-2.999998092651367"/>
+  <PARAM id="delay1_damp" value="11572.0"/>
+  <PARAM id="delay1_feed" value="24.30000114440918"/>
+  <PARAM id="delay1_feed_mod_depth" value="49.29999923706055"/>
+  <PARAM id="delay1_feed_mod_src" value="4.0"/>
+  <PARAM id="delay1_time" value="9.0"/>
+  <PARAM id="delay1_time_mod_depth" value="42.20000076293945"/>
+  <PARAM id="delay1_time_mod_src" value="6.0"/>
+  <PARAM id="delay2_amp" value="-2.999998092651367"/>
+  <PARAM id="delay2_damp" value="631.0"/>
+  <PARAM id="delay2_feed" value="2.299999952316284"/>
+  <PARAM id="delay2_feed_mod_depth" value="39.0"/>
+  <PARAM id="delay2_feed_mod_src" value="2.0"/>
+  <PARAM id="delay2_time" value="889.0"/>
+  <PARAM id="delay2_time_mod_depth" value="58.29999923706055"/>
+  <PARAM id="delay2_time_mod_src" value="5.0"/>
+  <PARAM id="distortion_drive" value="0.0"/>
+  <PARAM id="distortion_type" value="0.0"/>
+  <PARAM id="env1_attack" value="20.0"/>
+  <PARAM id="env1_release" value="27.0"/>
+  <PARAM id="env1_sens" value="1.9073486328125e-6"/>
+  <PARAM id="env2_attack" value="1.0"/>
+  <PARAM id="env2_release" value="190.0"/>
+  <PARAM id="env2_sens" value="1.9073486328125e-6"/>
+  <PARAM id="lfo1_rate" value="29.0620002746582"/>
+  <PARAM id="lfo1_sync" value="0.0"/>
+  <PARAM id="lfo1_synced_rate" value="21.0"/>
+  <PARAM id="lfo1_wave" value="1.0"/>
+  <PARAM id="lfo2_rate" value="43.40299987792969"/>
+  <PARAM id="lfo2_sync" value="0.0"/>
+  <PARAM id="lfo2_synced_rate" value="6.0"/>
+  <PARAM id="lfo2_wave" value="4.0"/>
+  <PARAM id="master_amp" value="-3.0"/>
+  <PARAM id="master_dry_wet" value="100.0"/>
+  <PARAM id="mix_mode" value="3.0"/>
+</Antagone_State>

@@ -4,6 +4,7 @@ ___
 
 Presets for the following Inear Display plugins:
 
+- Antagone - <https://www.ineardisplay.com/plugins/antagone/>
 - BowEcho - <https://www.ineardisplay.com/plugins/legacy/> \(free/legacy\)
 - Eurydice (legacy - Glitchmachines Cryogen is based on this plugin)
 - rmpx4 \(legacy - Glitchmachines Convex is based on this plugin)
