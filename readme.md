@@ -38,6 +38,7 @@ ___
 
 ___
 
+- Inear Display Antagone
 - Inear Display BowEcho
 - Inear Display Eurydice
 - Inear Display Regressif
